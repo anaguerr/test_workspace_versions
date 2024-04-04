@@ -1,0 +1,5 @@
+TOKEN "endpoint_endpoint_read_1809" READ
+
+NODE endpoint_1
+SQL >
+    SELECT 1
